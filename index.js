@@ -1,16 +1,12 @@
 let age = 38;
-let color = red;
-let horrorMovie = The-Ring;
-let superHero = hulk;
-let num = 5.5;
-function height(num){
-    if (num > 5.5) {
-        return true;
-    }        
-}
-
 console.log(age);
-console.log(color);
+let favcColor = "red";
+console.log(favColor);
+let favHorror = "The-Ring";
 console.log(horrorMovie);
+let superHero = "hulk";
 console.log(superHero);
-console.log(num(5.8));
+let num = 5.5;
+let tallerThanFiveFive = true;
+
+console.log(tallerThanFiveFive);
